@@ -1,0 +1,37 @@
+.box{
+  background-color: lightgrey;
+  width: 150px;
+  border: 3px solid #660080;
+  padding: 30px;
+  margin: 20px;
+}
+#orderIdDiv{
+  background-color: lightgrey;
+  width: 150px;
+  border: 3px solid #660080;
+  padding: 30px;
+  margin: 20px;
+  color:blue;
+}
+#loginPage{
+margin-top:200px;
+margin-left:500px;
+}
+#orderList{
+	background-color: lightgrey;
+  width: auto;
+  border: 3px solid #660080;
+  padding: 30px;
+  margin: 20px;
+}
+#orderList strong{
+	color:royalblue;
+}
+#orderList button,#boxId button{
+	width:100px;
+	height:35px;
+	border-color:red;
+}
+
+	
+	
